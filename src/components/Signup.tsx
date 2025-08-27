@@ -44,7 +44,7 @@ const Signup: React.FC = () => {
           }}
         ></div>
         
-        <div className="relative z-10 flex flex-col justify-center p-12 text-white">
+        <div className="relative z-10 flex flex-col justify-start pt-20 p-12 text-white">
           <div className="mb-12">
             <h1 className="text-5xl font-bold mb-6 leading-tight">
               <span className="block">Join the Future of</span>
